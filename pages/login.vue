@@ -2,6 +2,13 @@
   <v-container class="fill-height">
     <v-row align="center" justify="center">
       <v-col cols="12" md="4">
+        <img
+          style="vertical-align: middle"
+          src="/careers/bosowa-logo.png"
+          width="35"
+          class="mr-2"
+          alt="App Logo"
+        />
         <v-card>
           <v-card-title>
             <v-icon class="mr-2">mdi-login-variant</v-icon>

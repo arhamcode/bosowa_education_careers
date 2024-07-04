@@ -4,7 +4,7 @@
       <v-toolbar-title style="cursor: default" @click="refreshApp">
         <img
           style="vertical-align: middle"
-          src="/careers/bosowa_no_text.png"
+          src="/careers/bosowa-logo.png"
           width="35"
           class="mr-2"
           alt="App Logo"
@@ -39,7 +39,7 @@
 export default {
   data() {
     return {
-      title: 'Bosowa Job Vacancy',
+      title: 'BOSOWA CAREERS',
     }
   },
   methods: {

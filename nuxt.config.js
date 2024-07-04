@@ -72,7 +72,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseURL: 'https://hris.bosowa.co.id/rest_api_jova', // Used as fallback if no runtime config is provided
+    baseURL: 'https://hris.edu.bosowa.co.id/careers_api', // Used as fallback if no runtime config is provided
     // headers: {
     //   common: {
     //     AppScope: 'jaf'
